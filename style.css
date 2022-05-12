@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #e6ecf2;
+}
+#wrapper {
+    margin: auto;
+    text-align: center;
+    width: 60%;
+    background-color: white;    
+}
+
+#topptekst {
+    color: #2971e6;
+    font-size: 50px;
+}
+
+#bestill_tekst {
+    font-size: 40px;
+}
+
